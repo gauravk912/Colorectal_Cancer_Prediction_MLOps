@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/percy/Documents/00_Personal/Projects/My_Dev/04_Data_Science/MLOps_Projects/Colorectal_Cancer_Prediction/mlruns/0/2e333da056a64bc3b78c1362455ea7a2/artifacts
+end_time: 1756052538381
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2e333da056a64bc3b78c1362455ea7a2
+run_name: bouncy-ox-669
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1756052529646
+status: 3
+tags: []
+user_id: percy

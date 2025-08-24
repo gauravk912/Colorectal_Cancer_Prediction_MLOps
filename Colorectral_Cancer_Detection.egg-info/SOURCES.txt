@@ -1,0 +1,12 @@
+setup.py
+Colorectral_Cancer_Detection.egg-info/PKG-INFO
+Colorectral_Cancer_Detection.egg-info/SOURCES.txt
+Colorectral_Cancer_Detection.egg-info/dependency_links.txt
+Colorectral_Cancer_Detection.egg-info/requires.txt
+Colorectral_Cancer_Detection.egg-info/top_level.txt
+kubeflow_pipeline/__init__.py
+src/__init__.py
+src/custom_exception.py
+src/data_processnig.py
+src/logger.py
+src/model_training.py
